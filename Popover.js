@@ -96,7 +96,7 @@ var Popover = React.createClass({
     computeGeometry({contentSize, placement}, fromRect) {
         placement = placement || this.props.placement;
         fromRect = fromRect || this.props.fromRect;
-
+        
         //check to see if the mode is select
         //and pass in a dummy arrowSize object
         var arrowSize;
@@ -541,4 +541,4 @@ var styles = StyleSheet.create({
     }
 });
 
-module.exports = Popover; 
+module.exports = Popover;

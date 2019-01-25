@@ -1,6 +1,6 @@
 {
   "name": "@taw/react-native-popover",
-  "version": "2.8.2",
+  "version": "2.8.5",
   "description": "A <Popover /> component for react-native",
   "main": "Popover.js",
   "author": "Jean Regisser <jean.regisser@gmail.com> (https://github.com/jeanregisser)",
@@ -32,15 +32,15 @@
     "underscore": "^1.8.3"
   },
   "devDependencies": {
-    "@taw/build-scripts": "^1.4.0",
-    "@taw/condition-vsts": "^1.0.5",
+    "@taw/build-scripts": "2.0.3",
+    "@taw/condition-vsts": "1.0.6",
     "json": "^9.0.3",
     "npm-release": "^1.0.0",
     "react-native": "0.29.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/agilityworks-uk/react-native-popover.git"
+    "url": "https://github.com/Cloudfabriq-ltd/react-native-popover.git"
   },
   "publishConfig": {
     "access": "restricted",
